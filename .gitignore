@@ -93,6 +93,8 @@ ENV/
 env.bak/
 venv.bak/
 backendSRV/
+venv/bin/* 
+
 
 # Spyder project settings
 .spyderproject
